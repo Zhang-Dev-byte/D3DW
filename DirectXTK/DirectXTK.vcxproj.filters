@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\D3DW\DirectXTK\CMakeFiles\DirectXTK.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\AlphaTestEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\BasicEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\BasicPostProcess.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\BinaryReader.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\BufferHelpers.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\CommonStates.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DDSTextureLoader.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DebugEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DGSLEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DGSLEffectFactory.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DirectXHelpers.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DualPostProcess.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\DualTextureEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\EffectCommon.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\EffectFactory.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\EnvironmentMapEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\GamePad.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\GeometricPrimitive.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\Geometry.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\GraphicsMemory.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\Keyboard.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\Model.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\ModelLoadCMO.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\ModelLoadSDKMESH.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\ModelLoadVBO.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\Mouse.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\NormalMapEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\PBREffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\PBREffectFactory.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\PrimitiveBatch.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\ScreenGrab.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\SimpleMath.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\SkinnedEffect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\SpriteBatch.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\SpriteFont.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\ToneMapPostProcess.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\VertexTypes.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Src\WICTextureLoader.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\AudioEngine.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\DynamicSoundEffectInstance.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\SoundCommon.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\SoundEffect.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\SoundEffectInstance.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\SoundStreamInstance.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\WaveBank.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\WaveBankReader.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\D3DW\DirectXTK\Audio\WAVFileReader.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\BufferHelpers.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\CommonStates.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\DDSTextureLoader.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\DirectXHelpers.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\Effects.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\GamePad.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\GeometricPrimitive.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\GraphicsMemory.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\Keyboard.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\Model.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\Mouse.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\PostProcess.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\PrimitiveBatch.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\ScreenGrab.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\SimpleMath.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\SimpleMath.inl">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\SpriteBatch.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\SpriteFont.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\VertexTypes.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\WICTextureLoader.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\AlignedNew.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\Bezier.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\BinaryReader.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\DDS.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\DemandCreate.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\EffectCommon.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\Geometry.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\LoaderHelpers.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\pch.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\PlatformHelpers.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\SDKMesh.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\SharedResourcePool.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Src\vbo.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Inc\Audio.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Audio\SoundCommon.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Audio\WaveBankReader.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\Audio\WAVFileReader.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\CMakeFiles\DirectXTK.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\CMakeFiles\DirectXTK.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\CMakeFiles\DirectXTK.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\D3DW\DirectXTK\CMakeFiles\DirectXTK.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\D3DW\DirectXTK\Src\Shaders\CompileShaders.cmd">
+      <Filter>Src</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\D3DW\DirectXTK\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\D3DW\DirectXTK\Src\TeapotData.inc">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="C:\D3DW\DirectXTK\Src\Shaders\Compiled\SpriteEffect_SpriteVertexShader.inc">
+      <Filter>Src</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{54422132-C004-3B89-BA21-4C12F70B91F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inc">
+      <UniqueIdentifier>{5D51E5FF-DD71-3AD3-99C9-10F34A3FE5EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{EE528073-AD04-338A-8B08-A2CBBEA6D548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E252C015-934C-38D7-AA28-42D7E01260E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{0C5B9B52-D2E2-324C-8FFB-12FE8B6D3F9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

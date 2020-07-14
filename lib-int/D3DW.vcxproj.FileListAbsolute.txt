@@ -1,0 +1,2 @@
+C:\D3DMaker\lib\D3DW.pdb
+C:\D3DMaker\lib-int\D3DW.pdb
